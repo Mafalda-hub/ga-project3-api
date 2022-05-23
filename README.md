@@ -71,7 +71,7 @@ To contribute to this project, fork the repositories and make pull requests back
 
 ## The Approach Taken
 
-As this was a group project we first pooled our ideas and decided to create an application that would facilitate community skill sharing. Users can create accounts and either advertise their skills to the local community, or as a skills-provider, advertise the services available.
+As this was a group project, we first pooled our ideas and decided to create an application that would facilitate community skill sharing. Users can create accounts and either advertise their skills to the local community, or as a skills-provider, advertise the services available.
 
 We decided to split the tasks between the 3 developers in the team and create a kanban board using trello. This also provided experience in `agile workflows`. As part of this, we held daily standups to discuss what we had worked on in the previous day, the tasks that we would be tackling and any potential blockers we were aware of.
 
